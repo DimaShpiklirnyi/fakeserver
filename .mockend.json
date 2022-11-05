@@ -1,7 +1,7 @@
 {
   "Post": {
-    "title": { "privet": {} },
-    "comments": {
+    "title": { "string": {} },
+    "privet": {
       "hasMany": "Comment"
     }
   },
