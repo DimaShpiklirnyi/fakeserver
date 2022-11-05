@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "users": [{
+        "id": 1,
+        "name": "roy",
+        "location": "india"
+    }, {
+        "id": 2,
+        "name": "sam",
+        "location": "wales"
+    }]
 }
